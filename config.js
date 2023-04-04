@@ -27,24 +27,24 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/OktaModz'
-global.syt = 'https://youtu.be/ChataOfc-'
+global.sig = 'https://instagram'
+global.syt = 'https://youtub'
 global.sgh = 'https://github.com/ChataOfc'
 global.sgc = 'https://chat.whatsapp.com/JVQ60oSsvJ1CtscEwmtXzk'
-global.swa = 'wa.me/6285731947500'
+global.swa = 'wa.me/6285878291627'
 global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '085731947500'
+global.pdana = '-'
 global.povo = '-'
-global.pgopay = '085731947500'
-global.ppulsa = '085731947500'
-global.ppulsa2 = '085749543572'
-global.psaweria = 'https://saweria.co/oktakc'
+global.pgopay = '-'
+global.ppulsa = '085878291627'
+global.ppulsa2 = '-'
+global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285749543572'
+global.nomorbot = ''
 global.nomorown = '6285731947500'
 global.namebot = 'Nakano Nino'
 global.nameown = 'Okta'
