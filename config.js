@@ -39,13 +39,13 @@ global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 global.pdana = '088271609722'
 global.povo = '-'
 global.pgopay = '088271609722'
-global.ppulsa = '085731947500'
+global.ppulsa = '085878291627'
 global.ppulsa2 = '085878291627'
 global.psaweria = 'https://saweria.co/oktakc'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285878291627'
-global.nomorown = '6288271609722'
+global.nomorbot = '6288297368754'
+global.nomorown = '6285878291627'
 global.namebot = 'Fazibot'
 global.nameown = 'fazi'
 
